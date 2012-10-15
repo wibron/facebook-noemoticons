@@ -1,6 +1,6 @@
-## Facebook Icon-remover
+## Facebook Emoticon-remover
 
-An extension that removes ALL the ugly icons on facebook.
+An extension that removes ALL the ugly smileys on Facebook.
 
 Enjoy.
 
