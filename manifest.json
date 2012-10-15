@@ -9,7 +9,5 @@
       "js": ["main.js"]
     }
   ],
-  "permissions": [
-    "tabs"
-  ]
+  "permissions": ["tabs"]
 }
